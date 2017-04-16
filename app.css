@@ -1,0 +1,18 @@
+h1{
+	color:#145925;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+	
+
+h4{
+	background: rgb(255,100,80);	
+	border: 8px dashed rgb(25,180,225);
+}
+
+body{
+	background: url(http://www.publicdomainpictures.net/pictures/70000/velka/wood-grain-texture-ii.jpg);
+
+}
+
